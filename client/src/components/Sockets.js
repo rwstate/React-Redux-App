@@ -35,7 +35,7 @@ const Sockets = props => {
       return linkType
     }
 
-    return "\xa0"
+    return "\xa0 /"
   }
 
   const socketLayout = [
